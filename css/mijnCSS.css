@@ -1,0 +1,20 @@
+.form-control{
+    background-color: rgba(140, 170, 180, 0.5);
+}
+.divider-progress{
+    margin: 1.0rem 0 1.0rem;  
+}
+.skill{
+    align-items:center;
+    text-align: left;
+}
+.progress{
+    width:100%;
+}
+.centeremail{
+    text-align: center;
+    text-shadow: #000;
+    font-size: x-large;
+    font-style:italic;
+    color:black;
+  }

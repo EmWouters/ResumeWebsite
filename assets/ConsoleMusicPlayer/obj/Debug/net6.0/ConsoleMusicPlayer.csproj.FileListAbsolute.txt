@@ -1,0 +1,17 @@
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\bin\Debug\net6.0\ConsoleMusicPlayer.exe
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\bin\Debug\net6.0\ConsoleMusicPlayer.deps.json
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\bin\Debug\net6.0\ConsoleMusicPlayer.runtimeconfig.json
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\bin\Debug\net6.0\ConsoleMusicPlayer.dll
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\bin\Debug\net6.0\ConsoleMusicPlayer.pdb
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.csproj.AssemblyReference.cache
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\obj\Debug\net6.0\Interop.WMPLib.dll
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.AssemblyInfoInputs.cache
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.AssemblyInfo.cs
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.dll
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\obj\Debug\net6.0\refint\ConsoleMusicPlayer.dll
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.pdb
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.genruntimeconfig.cache
+C:\Users\emlyn\Documents\VDAB Cursus\Examen - Mediaplayer\Project\Project Emlyn Wouters\ConsoleMusicPlayer\obj\Debug\net6.0\ref\ConsoleMusicPlayer.dll
